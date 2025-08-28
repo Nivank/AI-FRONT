@@ -1,4 +1,4 @@
-to run on vscode ide 
+1 to run on vscode ide 
 download the file from github as zip 
 extract file and open it in vscode 
 install python and other necessary extensions
